@@ -1,5 +1,6 @@
 # myshell
-Linux 课程设计
+Linux 课程设计 简易shell实现
+
 参考：
 - https://github.com/xiabee/MyShell
 - https://pan.baidu.com/s/1e0JlPAv-sdnOzUiLBKXCdw 提取码：m5pw
