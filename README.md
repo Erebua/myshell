@@ -6,7 +6,7 @@ Linux 课程设计
 
 # 编译运行
 ```
-git clone 
+git clone https://github.com/Erebua/myshell.git
 cd ./myshell
 gcc -o shell shell.c
 ./shell
