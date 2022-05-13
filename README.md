@@ -11,3 +11,10 @@ cd ./myshell
 gcc -o shell shell.c
 ./shell
 ```
+
+# 目前支持的命令
+- cd
+- ls -al
+- pwd
+- whoami
+- cat <file_name>
