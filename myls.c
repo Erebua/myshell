@@ -191,7 +191,6 @@ void myls(int argc,char *argv[]){
         }
         closedir(dir_ptr);
         dir_ptr = 0;
-        printf("11111\n");
     }
 
 }
