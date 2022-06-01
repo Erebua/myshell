@@ -1,12 +1,4 @@
-/**
- * ------------------mycd-----------------------
- *  Change Directory
- *
- *	Author: xiabee
- *	Date  : 2020.1.19
- *  Compiling environment:	gcc version 10.2.1 20201207 (Debian 10.2.1-1)
- * ---------------------------------------------
- */
+
 #include"shell.h"
 #define LEN 128
 
